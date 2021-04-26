@@ -1,4 +1,4 @@
-# my_flutter_app
+# Startup Name Generator
 
 A new Flutter application.
 
